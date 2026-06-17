@@ -1,0 +1,34 @@
+[
+  {
+    "id": "WC0001",
+    "first_name": "Aditya",
+    "surname": "Neupane",
+    "address": "bharatpur",
+    "age": 20,
+    "licence": "Yes",
+    "days": 6,
+    "car_type": "Sports Car",
+    "fuel_type": "Petrol",
+    "mileage": true,
+    "breakdown": true,
+    "total_price": 297,
+    "status": "Active",
+    "created_at": "2026-05-14 12:50"
+  },
+  {
+    "id": "WC0002",
+    "first_name": "Aditya",
+    "surname": "neupane",
+    "address": "bharatpur",
+    "age": 20,
+    "licence": "Yes",
+    "days": 6,
+    "car_type": "Family Car",
+    "fuel_type": "Diesel",
+    "mileage": true,
+    "breakdown": true,
+    "total_price": 272,
+    "status": "Active",
+    "created_at": "2026-05-14 16:03"
+  }
+]
